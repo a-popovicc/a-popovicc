@@ -64,7 +64,7 @@ and was built in IntelliJ IDEA using JavaFX and Scene Builder. JSON is used as a
 and the project demonstrates improved organization, readability, and maintainability,
 as well as my shift from raw GUI logic to a structured architecture.</p>
 
-👉 View project: github.com/a-popovicc/eBank
+👉 View project: [github.com/a-popovicc/eBank](https://github.com/a-popovicc/eBank)
 
 
 <h4>🔹 What I'm Working Toward</h4>
