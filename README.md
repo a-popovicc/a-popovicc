@@ -53,7 +53,7 @@ Features parentheses support and automatic bracket management.
 Demonstrates handling of complex GUI events and also
 represents my transition from basic Java syntax → building real GUI applications.</p>
 
-👉 View project: github.com/a-popovicc/calculator
+👉 View project: [github.com/a-popovicc/calculator](https://github.com/a-popovicc/calculator)
 
 
 
