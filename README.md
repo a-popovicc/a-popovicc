@@ -79,6 +79,6 @@ as well as my shift from raw GUI logic to a structured architecture.</p>
 </ul>
 <h3>Contact</h3>
 
-GitHub: github.com/a-popovicc
+GitHub: [github.com/a-popovicc](https://github.com/a-popovicc)
 
 (LinkedIn coming soon)
