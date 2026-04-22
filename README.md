@@ -27,6 +27,10 @@ My focus is on building clean, structured, and scalable Java applications — st
 <li>JUnit (unit testing)</li>
 
 <li>JavaDoc documentation</li>
+
+<li>Maven</li>
+
+<li>Spring Framework</li>
 </ul>
 <h4>🔹 Tools & Frameworks</h4>
 
@@ -43,6 +47,7 @@ My focus is on building clean, structured, and scalable Java applications — st
 
 Maven (build automation & dependency management) and Spring Framework (Spring Boot, DI, REST APIs)
 
+---
 <h3>🌟 Featured Projects</h3>
 
 <h4>🔹 Calculator – Java Swing Project</h4>
@@ -66,6 +71,13 @@ as well as my shift from raw GUI logic to a structured architecture.</p>
 
 👉 View project: [github.com/a-popovicc/eBank](https://github.com/a-popovicc/eBank)
 
+<h4>🔹 Task Manager - Spring boot Project</h4>
+<p>A Spring Boot learning project focused on building a clean backend architecture, structured application design, and well-organized REST APIs.
+The goal of the project is to practice layered design, API development, and backend communication rather than UI implementation.</p>
+
+👉 View project: [github.com/a-popovicc/TaskManager](https://github.com/a-popovicc/TaskManager)
+
+---
 
 <h4>🔹 What I'm Working Toward</h4>
 <ul>
